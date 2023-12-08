@@ -1,4 +1,4 @@
-### Project presentation and drive link: https://drive.google.com/drive/folders/1YmdJPYgnFRdsWcoNF8LN0dURiA7s3G8l
+### Project presentation, demo video and apk of the app: https://drive.google.com/drive/folders/1YmdJPYgnFRdsWcoNF8LN0dURiA7s3G8l
 
 Project Name : **Wanderly**
 
